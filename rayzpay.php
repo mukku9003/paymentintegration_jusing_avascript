@@ -125,7 +125,7 @@
 				total_val = document.getElementById('tot_amt').value;
 				if(total_val > 0){
 					var options = {
-					    "key": "rzp_test_m5IQ4UxBMy3cUh",
+					    "key": "Test Api key",
 					    "amount": total_val, // Example: 2000 paise = INR 20
 					    "name": "Mukesh Yadav",
 					    "description": "Product Amount for Rayzerpay Integration",
